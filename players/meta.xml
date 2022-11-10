@@ -1,3 +1,4 @@
 <meta>
     <script src="players.lua" type="server"/>
+    <script src="authentification.lua" type="server"/>
 </meta>
